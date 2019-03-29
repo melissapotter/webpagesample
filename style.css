@@ -1,0 +1,10 @@
+#title { font-weight: bold;
+        color: orange;
+        text-align: center;
+    
+}
+
+#centered {
+    text-align: center;
+    margin: auto;
+}
