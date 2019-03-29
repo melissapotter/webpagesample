@@ -8,3 +8,11 @@
     text-align: center;
     margin: auto;
 }
+
+body {
+    border-color: black;
+    border-bottom: 20px;
+    border-top: 20px;
+    border-left: 20px;
+    border-right: 20px;
+}
